@@ -1,7 +1,7 @@
 podcastpedia-parent
 ===================
 
-Parent project (Maven) for podcastpedia-common, podcast-admin and [podcastpedia-web](https://github.com/podcastpedia/podcastpedia-web). It has to be initially installed in the local maven repository.
+Parent project (Maven) for [podcastpedia-common](https://github.com/podcastpedia/podcastpedia-common), podcast-admin and [podcastpedia-web](https://github.com/podcastpedia/podcastpedia-web). It has to be initially installed in the local maven repository.
 
 ## Install the project
 1. download/clone the project
